@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "This test webpack",
+  "main": "home.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "Tania",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.29.1",
+    "webpack-cli": "^3.2.3"
+  }
+}
